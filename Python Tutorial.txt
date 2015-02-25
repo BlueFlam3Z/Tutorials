@@ -1,0 +1,37 @@
+syso == print "phrase"
+
+variáveis não definidas:
+	numero = 7
+	rola = 2
+	
+sem ; e sem () sem declaração do main	
+
+// == # /- == """
+
+variáveis podem receber somas:
+
+add = 10 + 12		
+
+2**3 = 2^3
+
+Python é doente e There's buga trocar pra There\'s
+
+String é array de characteres logo podem ser acessados com "Rola"[1] == o
+
+--------------------------------------------------------------------------
+
+String methods:
+
+	metodos chamados por variavel.metodo();
+	
+	len() = lenght;
+	lower() = deixa tudo minusculo;
+	upper() = tudo maiusculo;
+	str() = torna não strings em strings;
+
+	concatenação = "rola" + "cu" etc
+
+Formatando String com %:
+
+	print "Hello %s" % (name) //%s é substituido pelo o que tem dentro do ()
+	print "Let's not go to %s. 'Tis a silly %s." % (string_1, string_2)

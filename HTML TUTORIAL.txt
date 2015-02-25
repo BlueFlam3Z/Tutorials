@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+</html>
+<p>
+</p>
+<head>
+<title>
+<body>
+h1 - h6
+<img src = "link to website.jpg"/>
+<a href = "link to hue" >"treco a ser clicado"</a>
+<ol>
+	<li> huehueuhe </li>
+</ol>
+<ul> // unordered list
+<!-- comment goes here -->
+<p style = "font-size: 10px ; color:violet; font-family:Arial black; text-align: center"> text goes here <p>
+<body style = "background-color: blue"> body goes huere </body>
+<strong> text to get bold </strong>
+<em> text to get italic</em>
+<span></span>// usado para mecher em partes isoladas do texto, como mudar a fonte de uma palavra.
+atribuição de atributos usando :

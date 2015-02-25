@@ -1,0 +1,30 @@
+--------------cMD----------------------------
+
+CD .. : sobe um diretório
+cd *diretório*: acessa o diretório
+dir: lista todos os arquivos desse diretório
+
+--------------Git Shell ----------------------
+git clone: puxa o repositório usando url do site
+git status: Verifica o status do diretório selecionado
+git add: adiciona o file no git por nome
+git commit: confirma as mudanças Usa-se git commit -m"message here" para mandar mensagem entre os parenteses
+git push: upa o diretório na cloud
+git pull: puxa o diretório da cloud	
+
+-------------Workflow-------------------------
+
+1) Git pull
+#change shit
+2) git add -A (adiciona toda pasta)
+3) git commit
+
+der o bug do commit sem message usar "esc :wq"
+
+-------------Branching e Pull Request --------
+
+Serve para fazer alterações que não alteram o branch principal
+
+git branch *new branch*: copia todo o diretório atual para esse branch
+git checkout *branch*: muda para o branch
+git merge master: pega o conteudo do branch e tenta juntar com o mestre
