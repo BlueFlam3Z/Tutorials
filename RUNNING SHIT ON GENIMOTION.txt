@@ -1,0 +1,2 @@
+1) Abrir a maquina virtual usando o icone vermelhor no android Studio
+2) rodar e escolher a mv
